@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá! Eu sou o Patrick Bonze 👋
 
-<!--
-**Patrii-Bonze/patrii-bonze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNIASSELVI)  
+💻 Em formação como Desenvolvedor Full Stack (JS, TS, Node, React)  
+🚀 Buscando oportunidades para crescer na área de tecnologia  
+📚 Apaixonado por aprender e criar projetos úteis!
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estou aprendendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5, CSS3, JavaScript
+- TypeScript, React, Node.js
+- Git e GitHub
+- ### 📌 Projetos em destaque:
+- [Cópia de Landing Page (Estudo)](https://github.com/patrii-bonze/pagina-html-css) – Exercício de prática em HTML/CSS inspirado em uma landing page do Webflow
+
+- ### 📫 Como me encontrar:
+- ✉️ E-mail: Patricksoares7@yahoo.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/patrick-bonze-45abb024a/)) 
