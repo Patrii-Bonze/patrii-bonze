@@ -15,4 +15,4 @@
 
 - ### 📫 Como me encontrar:
 - ✉️ E-mail: Patricksoares7@yahoo.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/patrick-bonze-45abb024a/)) 
+- 💼 [LinkedIn] https://www.linkedin.com/in/patrick-bonze-45abb024a/
