@@ -14,5 +14,5 @@
 - [Cópia de Landing Page (Estudo)](https://github.com/patrii-bonze/pagina-html-css) – Exercício de prática em HTML/CSS inspirado em uma landing page do Webflow
 
 - ### 📫 Como me encontrar:
-- ✉️ E-mail: Patricksoares7@yahoo.com
+- ✉️ E-mail: Patricksoares8@outlook.com
 - 💼 [LinkedIn] https://www.linkedin.com/in/patrick-bonze-45abb024a/
